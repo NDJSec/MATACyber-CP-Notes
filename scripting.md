@@ -6,8 +6,8 @@
 ## Windows (PowerShell)
 - PowerShell is a scripting language native to Windows that works with CMDlets that allow you to automate processes on windows
 
-### Running PowerShell 
-[^1]:(https://blog.netwrix.com/2018/02/21/windows-powershell-scripting-tutorial-for-beginners/)
+### Running PowerShell [^1] 
+[^1]: [PowerShell Link](https://blog.netwrix.com/2018/02/21/windows-powershell-scripting-tutorial-for-beginners/)
 - PowerShell can be run from the run window (`Windows+R`)
 	- From the start menu (powershell.exe)
 	- Or from the ISE (useful when creating scripts)
